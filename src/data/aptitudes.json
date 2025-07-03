@@ -1,0 +1,82 @@
+{
+  "aptitudes": [
+    {
+      "id": 1,
+      "aptitude": "aptitude1",
+      "description": "Kamu cocok berada di bidang hiburan & fashion. Pokoknya, panggung tanpa kamu itu jadi canggung!",
+      "talents": [
+        { "talentName": "Communication", "proficiency": 100 },
+        { "talentName": "Critical Thinking", "proficiency": 90 },
+        { "talentName": "Art", "proficiency": 90 }
+      ],
+      "suitableMajors": [
+        "Public relations",
+        "Seni Rupa",
+        "Manajemen & Bisnis",
+        "Pariwisata"
+      ],
+      "suitableCareers": [
+        "Marketing",
+        "Fashion",
+        "Travel",
+        "Industri kreatif",
+        "Art"
+      ]
+    },
+    {
+      "id": 2,
+      "aptitude": "aptitude2",
+      "description": "Karakter kamu yang visioner bikin kamu cocok berada di bidang bisnis & manajerial. Vibes-nya CEO banget, nih!",
+      "talents": [
+        { "talentName": "Analyst", "proficiency": 100 },
+        { "talentName": "Innovation", "proficiency": 75 },
+        { "talentName": "Leadership", "proficiency": 100 }
+      ],
+      "suitableMajors": [
+        "Manajemen & Bisnis",
+        "Teknik Informatika",
+        "Ekonomi",
+        "Sistem Informasi"
+      ],
+      "suitableCareers": [
+        "Insinyur",
+        "Manajer",
+        "Pekerja Statistik",
+        "Pebisnis",
+        "Pengusaha",
+        "Programmer",
+        "Teknisi"
+      ]
+    },
+    {
+      "id": 3,
+      "aptitude": "aptitude3",
+      "description": "Orang se-chill kamu cocok berada di bidang jasa sosial karena memerlukan kestabilan emosi dan ketenangan.",
+      "talents": [
+        { "talentName": "Communication", "proficiency": 90 },
+        { "talentName": "Observation", "proficiency": 100 },
+        { "talentName": "Analyst", "proficiency": 90 }
+      ],
+      "suitableMajors": ["Psikologi", "Kesehatan", "Ilmu Komunikasi", "PGSD"],
+      "suitableCareers": ["Perawat", "Pengajar", "Psikolog/konselor"]
+    },
+    {
+      "id": 4,
+      "aptitude": "aptitude4",
+      "description": "Kamu cocok berada di bidang yang memerlukan ketelitian & perencanaan. Walaupun dibalik layar, kamu tetap jadi pahlawan!",
+      "talents": [
+        { "talentName": "Creative", "proficiency": 90 },
+        { "talentName": "Focus", "proficiency": 100 },
+        { "talentName": "Organized", "proficiency": 100 }
+      ],
+      "suitableMajors": ["DKV", "Sistem Informasi", "Psikologi", "Akuntansi"],
+      "suitableCareers": [
+        "Manajer",
+        "Akuntan",
+        "Designer",
+        "Pustakawan",
+        "Administrasi"
+      ]
+    }
+  ]
+}

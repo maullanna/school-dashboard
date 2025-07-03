@@ -1,0 +1,36 @@
+{
+  "personalities": [
+    {
+      "id": 1,
+      "personality": "Sanguinis",
+      "name": "Spotlight",
+      "tagline": "Panggung itu kamu banget. Gak ada Spotlight, suasana jadi flat!",
+      "hashtags": ["SiPalingSatSet", "MoodyAbis", "CobainAjaDulu"],
+      "minidescription": "Si paling Friendly yang ceria dan selalu jadi cahaya buat sekitarnya. Kamu adalah karakter yang memiliki tingkat percaya diri sangat tinggi, optimis, dan kreatif!"
+    },
+    {
+      "id": 2,
+      "personality": "Koleris",
+      "name": "Alphazard",
+      "tagline": "Di antara kawanan serigala, kamu yang jadi Alpha nya!",
+      "hashtags": ["GasPolAja", "AlphaMode", "AntiBasaBasi"],
+      "minidescription": "Si Independen & anti basa basi, karena kamu adalah karakter yang sangat logis, tegas, dan analitis. Buat kamu, target tanpa rencana tuh udah kaya bencana!"
+    },
+    {
+      "id": 3,
+      "personality": "Plegmatis",
+      "name": "Chillbean",
+      "tagline": "Apapun persoalannya , hadapi aja dengan chill",
+      "hashtags": ["ChillDuluBro", "NgalahAja", "StayRelax"],
+      "minidescription": "Kamu fokus pada ketenangan diri dan kedamaian. Namun, dibalik sifat kamu yang tenang, banyak cinta dan kebaikan yang kamu bagikan. Mengalah bukan berarti kalah, jadi santai aja!"
+    },
+    {
+      "id": 4,
+      "personality": "Melankolis",
+      "name": "Silentmind",
+      "tagline": "Keep silent aja, biar vibes-nya yang datang sendiri!",
+      "hashtags": ["MikirDuluBaruMaju", "SilentMode"],
+      "minidescription": "Kualitas tuh bisa bersinar, bahkan tanpa sorotan. Kamu sangat terencana dan teliti yang bikin hasil kerjaanmu selalu on point!"
+    }
+  ]
+}
